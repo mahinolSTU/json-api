@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "1984 Century",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/g4Z10JW/kindpng-4945926-1.png",
+    "review": "A chilling portrayal of a dystopian society where individual freedom is suppressed by totalitarian rule.",
+    "totalPages": 328,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political"],
+    "publisher": "Penguin Books",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/c1VBXGh/kindpng-2592315-1.jpg",
+    "review": "A poignant tale of racial injustice and moral growth in a small Southern town.",
+    "totalPages": 336,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Social Justice", "Coming-of-age"],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/PMfKBPN/kindpng-81724-1.jpg",
+    "review": "A brilliant commentary on the American Dream, filled with glamour, tragedy, and deceit.",
+    "totalPages": 180,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Romance", "Tragedy"],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 4,
+    "bookName": " History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://i.ibb.co/8gZBpGL/kindpng-1064993.jpg",
+    "review": "A thought-provoking exploration of the history of Homo sapiens, from the Stone Age to the present.",
+    "totalPages": 443,
+    "rating": 4.7,
+    "category": "Non-fiction",
+    "tags": ["History", "Anthropology"],
+    "publisher": "Harper",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/bmbQkSB/kindpng-7318921.jpg",
+    "review": "A timeless coming-of-age story that captures the disillusionment of adolescence.",
+    "totalPages": 277,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Coming-of-age", "Rebellion"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/hy1sP3T/pngwing-1.jpg",
+    "review": "An enchanting tale of adventure and heroism set in Middle-earth.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Epic"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  }
+]
